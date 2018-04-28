@@ -30,7 +30,7 @@ void queue1Push(struct process proc) {
 
 
 void queue1Pop() {
-	front1 = front1 + 1 ;
+	front1+=1;
 }
 
 
